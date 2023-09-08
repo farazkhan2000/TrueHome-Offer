@@ -1,0 +1,2 @@
+[07-Sep-2023 17:01:15 UTC] PHP Notice:  Undefined variable: usersubject in /home/go8smm78ahl3/public_html/truehomeoffer.co/SendEmail.php on line 24
+[07-Sep-2023 17:01:15 UTC] PHP Notice:  Undefined variable: usermessage in /home/go8smm78ahl3/public_html/truehomeoffer.co/SendEmail.php on line 24
